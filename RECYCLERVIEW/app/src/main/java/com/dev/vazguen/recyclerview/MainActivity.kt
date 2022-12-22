@@ -6,6 +6,9 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.dev.vazguen.recyclerview.adapter.SuperHeroAdapter
 
+/*
+* @autor: Vazgen Martirosyan
+* */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
