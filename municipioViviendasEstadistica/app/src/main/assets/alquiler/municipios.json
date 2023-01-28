@@ -1,0 +1,302 @@
+[
+  {"Nombre":"07026-Eivissa: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07026-Eivissa: Balears, Illes", "Codigo":"07026eivissabalearsilles"}
+]
+, "Data":[{"Valor":33.79}
+]
+}
+,{"Nombre":"17095-Lloret de Mar: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17095-Lloret de Mar: Girona", "Codigo":"17095lloretdemargirona"}
+]
+, "Data":[{"Valor":33.11}
+]
+}
+,{"Nombre":"35034-Yaiza: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35034-Yaiza: Palmas, Las", "Codigo":"35034yaizapalmaslas"}
+]
+, "Data":[{"Valor":33.04}
+]
+}
+,{"Nombre":"17066-Figueres: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17066-Figueres: Girona", "Codigo":"17066figueresgirona"}
+]
+, "Data":[{"Valor":32.69}
+]
+}
+,{"Nombre":"35015-Pájara: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35015-Pájara: Palmas, Las", "Codigo":"35015pajarapalmaslas"}
+]
+, "Data":[{"Valor":31.92}
+]
+}
+,{"Nombre":"07024-Formentera: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07024-Formentera: Balears, Illes", "Codigo":"07024formenterabalearsilles"}
+]
+, "Data":[{"Valor":31.78}
+]
+}
+,{"Nombre":"07062-Son Servera: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07062-Son Servera: Balears, Illes", "Codigo":"07062sonserverabalearsilles"}
+]
+, "Data":[{"Valor":31.55}
+]
+}
+,{"Nombre":"38006-Arona: Santa Cruz de Tenerife", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"38006-Arona: Santa Cruz de Tenerife", "Codigo":"38006aronasantacruzdetenerife"}
+]
+, "Data":[{"Valor":31.31}
+]
+}
+,{"Nombre":"07005-Andratx: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07005-Andratx: Balears, Illes", "Codigo":"07005andratxbalearsilles"}
+]
+, "Data":[{"Valor":30.92}
+]
+}
+,{"Nombre":"25203-Seu d'Urgell, La: Lleida", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"25203-Seu d'Urgell, La: Lleida", "Codigo":"25203seudurgelllalleida"}
+]
+, "Data":[{"Valor":30.74}
+]
+}
+,{"Nombre":"35014-Oliva, La: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35014-Oliva, La: Palmas, Las", "Codigo":"35014olivalapalmaslas"}
+]
+, "Data":[{"Valor":30.39}
+]
+}
+,{"Nombre":"35028-Tías: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35028-Tías: Palmas, Las", "Codigo":"35028tiaspalmaslas"}
+]
+, "Data":[{"Valor":30.27}
+]
+}
+,{"Nombre":"08019-Barcelona: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08019-Barcelona: Barcelona", "Codigo":"08019barcelonabarcelona"}
+]
+, "Data":[{"Valor":30.1}
+]
+}
+,{"Nombre":"07032-Maó: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07032-Maó: Balears, Illes", "Codigo":"07032maobalearsilles"}
+]
+, "Data":[{"Valor":28.73}
+]
+}
+,{"Nombre":"17022-Bisbal d'Empordà, La: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17022-Bisbal d'Empordà, La: Girona", "Codigo":"17022bisbaldempordalagirona"}
+]
+, "Data":[{"Valor":27.93}
+]
+}
+,{"Nombre":"17079-Girona: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17079-Girona: Girona", "Codigo":"17079gironagirona"}
+]
+, "Data":[{"Valor":27.59}
+]
+}
+,{"Nombre":"17047-Castelló d'Empúries: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17047-Castelló d'Empúries: Girona", "Codigo":"17047castellodempuriesgirona"}
+]
+, "Data":[{"Valor":27.49}
+]
+}
+,{"Nombre":"08298-Vic: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08298-Vic: Barcelona", "Codigo":"08298vicbarcelona"}
+]
+, "Data":[{"Valor":27.45}
+]
+}
+,{"Nombre":"07003-Alcúdia: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07003-Alcúdia: Balears, Illes", "Codigo":"07003alcudiabalearsilles"}
+]
+, "Data":[{"Valor":27.3}
+]
+}
+,{"Nombre":"08022-Berga: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08022-Berga: Barcelona", "Codigo":"08022bergabarcelona"}
+]
+, "Data":[{"Valor":27.08}
+]
+}
+,{"Nombre":"07057-Santanyí: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07057-Santanyí: Balears, Illes", "Codigo":"07057santanyibalearsilles"}
+]
+, "Data":[{"Valor":25.98}
+]
+}
+,{"Nombre":"07054-Santa Eulalia del Río: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07054-Santa Eulalia del Río: Balears, Illes", "Codigo":"07054santaeulaliadelriobalearsilles"}
+]
+, "Data":[{"Valor":25.94}
+]
+}
+,{"Nombre":"30021-Fuente Álamo de Murcia: Murcia", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"30021-Fuente Álamo de Murcia: Murcia", "Codigo":"30021fuentealamodemurciamurcia"}
+]
+, "Data":[{"Valor":25.73}
+]
+}
+,{"Nombre":"17048-Castell-Platja d'Aro: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17048-Castell-Platja d'Aro: Girona", "Codigo":"17048castellplatjadarogirona"}
+]
+, "Data":[{"Valor":25.5}
+]
+}
+,{"Nombre":"35004-Arrecife: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35004-Arrecife: Palmas, Las", "Codigo":"35004arrecifepalmaslas"}
+]
+, "Data":[{"Valor":25.48}
+]
+}
+,{"Nombre":"45121-Ocaña: Toledo", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"45121-Ocaña: Toledo", "Codigo":"45121ocanatoledo"}
+]
+, "Data":[{"Valor":25.34}
+]
+}
+,{"Nombre":"30902-Alcázares, Los: Murcia", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"30902-Alcázares, Los: Murcia", "Codigo":"30902alcazareslosmurcia"}
+]
+, "Data":[{"Valor":25.14}
+]
+}
+,{"Nombre":"07014-Capdepera: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07014-Capdepera: Balears, Illes", "Codigo":"07014capdeperabalearsilles"}
+]
+, "Data":[{"Valor":25.13}
+]
+}
+,{"Nombre":"08006-Arenys de Mar: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08006-Arenys de Mar: Barcelona", "Codigo":"08006arenysdemarbarcelona"}
+]
+, "Data":[{"Valor":25.09}
+]
+}
+,{"Nombre":"08205-Sant Cugat del Vallès: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08205-Sant Cugat del Vallès: Barcelona", "Codigo":"08205santcugatdelvallesbarcelona"}
+]
+, "Data":[{"Valor":25.04}
+]
+}
+,{"Nombre":"03031-Benidorm: Alicante/Alacant", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"03031-Benidorm: Alicante/Alacant", "Codigo":"03031benidormalicantealacant"}
+]
+, "Data":[{"Valor":24.99}
+]
+}
+,{"Nombre":"11012-Cádiz: Cádiz", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"11012-Cádiz: Cádiz", "Codigo":"11012cadizcadiz"}
+]
+, "Data":[{"Valor":24.85}
+]
+}
+,{"Nombre":"17155-Salt: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17155-Salt: Girona", "Codigo":"17155saltgirona"}
+]
+, "Data":[{"Valor":24.77}
+]
+}
+,{"Nombre":"35017-Puerto del Rosario: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35017-Puerto del Rosario: Palmas, Las", "Codigo":"35017puertodelrosariopalmaslas"}
+]
+, "Data":[{"Valor":24.71}
+]
+}
+,{"Nombre":"08270-Sitges: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08270-Sitges: Barcelona", "Codigo":"08270sitgesbarcelona"}
+]
+, "Data":[{"Valor":24.59}
+]
+}
+,{"Nombre":"17114-Olot: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17114-Olot: Girona", "Codigo":"17114olotgirona"}
+]
+, "Data":[{"Valor":24.56}
+]
+}
+,{"Nombre":"08118-Masnou, El: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08118-Masnou, El: Barcelona", "Codigo":"08118masnouelbarcelona"}
+]
+, "Data":[{"Valor":24.42}
+]
+}
+,{"Nombre":"07046-Sant Antoni de Portmany: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07046-Sant Antoni de Portmany: Balears, Illes", "Codigo":"07046santantonideportmanybalearsilles"}
+]
+, "Data":[{"Valor":24.31}
+]
+}
+,{"Nombre":"17147-Ripoll: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17147-Ripoll: Girona", "Codigo":"17147ripollgirona"}
+]
+, "Data":[{"Valor":24.11}
+]
+}
+,{"Nombre":"52001-Melilla: Melilla", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"52001-Melilla: Melilla", "Codigo":"52001melillamelilla"}
+]
+, "Data":[{"Valor":24.07}
+]
+}
+,{"Nombre":"25217-Tàrrega: Lleida", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"25217-Tàrrega: Lleida", "Codigo":"25217tarregalleida"}
+]
+, "Data":[{"Valor":23.89}
+]
+}
+,{"Nombre":"07040-Palma: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07040-Palma: Balears, Illes", "Codigo":"07040palmabalearsilles"}
+]
+, "Data":[{"Valor":23.87}
+]
+}
+,{"Nombre":"04066-Níjar: Almería", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"04066-Níjar: Almería", "Codigo":"04066nijaralmeria"}
+]
+, "Data":[{"Valor":23.75}
+]
+}
+,{"Nombre":"07061-Sóller: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07061-Sóller: Balears, Illes", "Codigo":"07061sollerbalearsilles"}
+]
+, "Data":[{"Valor":23.69}
+]
+}
+,{"Nombre":"07048-Sant Josep de sa Talaia: Balears, Illes", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"07048-Sant Josep de sa Talaia: Balears, Illes", "Codigo":"07048santjosepdesatalaiabalearsilles"}
+]
+, "Data":[{"Valor":23.6}
+]
+}
+,{"Nombre":"35012-Mogán: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35012-Mogán: Palmas, Las", "Codigo":"35012moganpalmaslas"}
+]
+, "Data":[{"Valor":23.28}
+]
+}
+,{"Nombre":"25040-Balaguer: Lleida", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"25040-Balaguer: Lleida", "Codigo":"25040balaguerlleida"}
+]
+, "Data":[{"Valor":23.02}
+]
+}
+,{"Nombre":"08035-Calella: Barcelona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"08035-Calella: Barcelona", "Codigo":"08035calellabarcelona"}
+]
+, "Data":[{"Valor":22.78}
+]
+}
+,{"Nombre":"35030-Tuineje: Palmas, Las", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"35030-Tuineje: Palmas, Las", "Codigo":"35030tuinejepalmaslas"}
+]
+, "Data":[{"Valor":22.67}
+]
+}
+,{"Nombre":"17152-Roses: Girona", "MetaData":[{"Variable":{"Nombre":"municipios", "Codigo":"municipios"}
+, "Nombre":"17152-Roses: Girona", "Codigo":"17152rosesgirona"}
+]
+, "Data":[{"Valor":22.61}
+]
+}
+]
