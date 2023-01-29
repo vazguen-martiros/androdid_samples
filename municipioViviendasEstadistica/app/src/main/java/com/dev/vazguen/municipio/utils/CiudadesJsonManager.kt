@@ -66,6 +66,10 @@ class CiudadesJsonManager(resources:Resources): java.lang.Exception() {
         return ArrayList<MunicipioDataClass>()
     }
 
+    fun close() {
+
+    }
+
     object JsonManager {
         fun parceJson(){
             val gson = Gson()
