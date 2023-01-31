@@ -12,4 +12,5 @@ con la base de datos.La vista se actualiza automáticamente cuando los datos en 
 
 
 <br/>
-<img width="387" alt="Captura de pantalla 2023-01-31 a las 15 24 04" src="https://user-images.githubusercontent.com/33204630/215791570-4e43ccf5-788d-4127-abee-0042beb31f14.png">
+
+<img width="254" alt="Captura de pantalla 2023-01-31 a las 15 46 00" src="https://user-images.githubusercontent.com/33204630/215792328-67541c78-5a21-48dd-923f-b7db136cf532.png">
