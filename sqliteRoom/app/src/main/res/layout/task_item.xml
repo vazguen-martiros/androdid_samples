@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/ligh_blue"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:hint="Title"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description_textView"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:hint="Description"
+        android:text="Description"
+        android:textSize="15sp" />
+
+    <CheckBox
+        android:id="@+id/completed_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Completed" />
+
+</LinearLayout>
