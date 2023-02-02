@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
-        setValuesSpinner(ciudades)
+        setDefaultValues(ciudades)
     }
 
     private fun setDefaultValues(ciudades:List<MunicipioDataClass>) {
