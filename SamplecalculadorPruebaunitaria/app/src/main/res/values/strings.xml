@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample calculador (Prueba unitaria)</string>
+    <string name="computationError">\"Error calculo\"</string>
+</resources>
