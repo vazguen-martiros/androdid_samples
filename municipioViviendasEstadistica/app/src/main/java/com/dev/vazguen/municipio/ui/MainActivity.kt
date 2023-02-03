@@ -29,6 +29,8 @@ class MainActivity : AppCompatActivity() {
 
         spinnerCiudad = findViewById<Spinner>(R.id.spinnerFiltrarCiudad)
 
+      
+        
         val jsonManager: CiudadesJsonManager = CiudadesJsonManager(this.resources)
         val ciudades = jsonManager.serializeToObject()
 
@@ -48,16 +50,16 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
-        setValuesSpinner(ciudades)
+        setDefaultValues(ciudades)
     }
 
-    private fun setValuesSpinner(ciudades:List<MunicipioDataClass>) {
+    private fun setDefaultValues(ciudades:List<MunicipioDataClass>) {
         //parse json to object
-
-
+        
         recylerView = findViewById<RecyclerView>(R.id.recylerview)
         recylerView?.layoutManager = LinearLayoutManager(this)
         recylerView?.adapter = DatosAdapter(ciudades)
+
 
         ///region Filtrar segun ciudad
         val data = arrayListOf<String>()
