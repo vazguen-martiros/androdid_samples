@@ -1,6 +1,6 @@
 # Unit test JAVA
 
-'''
+```
 @RunWith(JUnit4.class)
 @SmallTest
 public class CalculadorTest {
@@ -28,4 +28,4 @@ public class CalculadorTest {
         assertThat(reultRes,is(equalTo(9d)));
     }
 }
-'''
+```
